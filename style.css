@@ -1,0 +1,196 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(img/Breakfast.jpg);
+    background-size: cover;
+}
+
+.triangulo-1{
+    width: 4.5rem;
+    height: 35rem;
+     background: rgb(0, 0, 0);
+}
+
+.triangulo-2{
+    width: 4.5rem;
+    height: 28rem;
+    background: #ffb800;
+}
+
+.log-in{
+    height: 19px;
+    width: 441px;
+    left: 1374px;
+    position: absolute;
+    top: 59px;
+}
+
+.desingby{
+    left: -134px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 280px;
+    transform: rotate(-90deg);
+    white-space: nowrap;
+    width: 360px;
+}
+
+.eat-healthy-eat-tasty{
+    color: var(--white);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-xxl);
+    font-weight: 800;
+    left: 182px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 227px;
+    width: 513;
+}
+
+.instagram{
+    height: 50px;
+    left: 21px;
+    object-fit:cover;
+    position: absolute;
+    top: 902px;
+    width: 50px;
+}
+
+.play{
+    height: 70px;
+    left: 706px;
+    object-fit:cover;
+    position: absolute;
+    top: 795px;
+    width: 70px;
+}
+
+.place{
+    left: 331px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 55px;
+    width: 116px;
+}
+
+.serves-4{
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-weight: 800;
+    left: 124px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 854px;
+    width: 339px;
+}
+
+.explore{
+    -webkit-text-stroke: 1px var(--white);
+    left: 620px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 515px;
+    white-space: nowrap;
+    width: 269px;
+}
+
+.menu{
+    height: 982px;
+    left: 0px;
+    object-fit:cover;
+    position: absolute;
+    top: 795px;
+    width: 1512px;
+}
+
+.twitter{
+    height: 50px;
+    left: 21px;
+    object-fit:cover;
+    position: absolute;
+    top: 758px;
+    width: 50px;
+}
+
+.start-your-day{
+    color: gray;
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-m);
+    font-weight: 300;
+    left: 182px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 397px;
+    width: 530px;
+}
+
+.facebook{
+    height: 50px;
+    left: 21px;
+    object-fit:cover;
+    position: absolute;
+    top: 830px;
+    width: 50px;
+}
+
+.do-utilizador{
+    height: 40px;
+    left: 1319px;
+    object-fit:cover;
+    position: absolute;
+    top: 48px;
+    width: 40px;
+}
+
+.cheesy{
+    color: var(--black);
+    font-family: var(--font-family-inter);
+    font-size: var(--font-size-s);
+    font-weight: 300;
+    left: 115px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 784px;
+    width: 348px;
+}
+
+.recipes{
+    left: 182px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 397px;
+    width: 530px;
+}
+
+.cheesy-grits{
+
+}
+
+.interface{
+    height: 90px;
+    left: 172px;
+    object-fit:cover;
+    position: absolute;
+    top: 27px;
+    width: 90px;
+}
+
+.about{
+
+}
